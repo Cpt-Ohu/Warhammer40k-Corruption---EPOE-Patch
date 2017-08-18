@@ -1,0 +1,145 @@
+<Patch>
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgeryAdvanced"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgeryBasic"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgeryBionic"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgeryGlitterworld"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgeryMending"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgeryNatural"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgerySurrogate"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgerySimple"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+
+	<Operation Class="PatchOperationInsert">
+	  <xpath>*/RecipeDef[@Name="SurgerySynthetic"]/recipeUsers/li</xpath>
+	  <value>
+        <li>Alien_Astartes</li>
+        <li>Alien_DarkEldar</li>
+        <li>Alien_Eldar</li>
+        <li>Alien_Mechanicus_Member</li>
+        <li>Alien_Ork</li>
+        <li>Alien_Sororitas</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauPOR</li>
+        <li>Alien_TauSHAS</li>
+        <li>Alien_TauAUN</li>
+	  </value>
+	</Operation> 
+</Patch>
